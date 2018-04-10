@@ -8,4 +8,7 @@ Feature:
     
     Given: 
     When user enter correct username and password
+    And updated the feature file from github
     Then user should login successfully
+    
+    
