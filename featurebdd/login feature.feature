@@ -2,6 +2,7 @@
 Feature:
   This is first feature created usibg qtest jira plugin tool
 
+@login
   Scenario:
     This is first feature created usibg qtest jira plugin tool
     
