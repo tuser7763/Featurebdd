@@ -1,7 +1,7 @@
 
 Feature:check this trial
 
-  Scenarioq:test me
+  Scenario:test me
    Given: uber app
    When: test.manager
    Then: Login successfully again
